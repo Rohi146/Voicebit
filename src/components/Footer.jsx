@@ -6,7 +6,7 @@ const Footer = () => {
   const handleLinkClick = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
-
+// add
   return (
     <footer>
       <div className="footer-curve">
